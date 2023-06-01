@@ -1,0 +1,2 @@
+from classes import Enemy
+enemies = [Enemy("Zombie", 4, 5, "zombie_bone", "zombie"), Enemy("Skeleton", 2, 6, "skeleton_heart", "skeleton"), Enemy("Slime", 3, 7, "slime_gel", "slime"), Enemy("Spider", 4, 8, "spider_leg", "spider")  ]
